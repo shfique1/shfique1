@@ -83,5 +83,6 @@ for product in product_elements:
 driver.quit()
 
 # Create a DataFrame and save it to a CSV file
+
 df = pd.DataFrame(products)
 df.to_csv('products.csv', index=False)
