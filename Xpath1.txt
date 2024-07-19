@@ -1,0 +1,13 @@
+                     Not needed    First image Xpath:    //*[@id="gallery-product-list"]/div[2]/div/ul/li[1]/div/div/div/div/div[1]/div[2]/a/div/div/div/img
+Image container XPath:   //*[@id="gallery-product-list"]/div[2]/div/ul
+
+Tittle xpath:          //*[@id="productTitle-false"]
+
+Actual Price xpath:   //*[@id="contentContainer"]/section/section[3]/div[2]/div[1]/section[2]/div/div/section/div/div/span[1]
+July Sale Xpath:      //*[@id="contentContainer"]/section/section[3]/div[2]/div[1]/section[2]/section/div/div/div[1]
+Description Xpath:    //*[@id="productDescriptionContainer"]/div[1]/div[1]/text()
+Colour Box Xpath:     //*[@id="productOptionsColorList"]
+Colour Name Xpath:    //*[@id="display-color-text-false"]/div/span[2]
+Next Button Xpath:    //*[@id="gallery-pagination"]/div/button
+
+//*[@id="gallery-product-list"]/div[2]/div/ul/li[1]/div/div/div/div/div[1]/div[2]/a/div/div/div/img

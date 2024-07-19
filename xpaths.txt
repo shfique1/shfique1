@@ -1,0 +1,7 @@
+xpath for tittle:          //*[@id="productTitle-false"]
+xpath for colouur:        //*[@id="display-color-text-false"]/div/span[2]
+xpath for description:   //*[@id="productDescriptionContainer"]/div[1]/div[1]/text()
+xpath for price:        //*[@id="contentContainer"]/section/section[3]/div[2]/div[1]/section[2]/section/div/div/div[1]
+
+xpath of button:      //*[@id="gallery-product-list"]/div[2]/div/ul/li[1]/div/div/div/div/div[1]/div[2]/a/div/div/div/img
+product container:   //*[@id="gallery-product-list"]/div[2]/div/ul 
